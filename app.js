@@ -1,1 +1,2 @@
-console.log('Howdy'):
+console.log('Howdy');
+log.txt
